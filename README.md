@@ -130,15 +130,3 @@ pets/
 
 The code and packaging in this repo are released under the [MIT License](LICENSE).
 The sprite artwork is fan art of a copyrighted character: non-commercial use only, and *Blue Archive*'s rights holders retain all rights to the character.
-
----
-
-## ☕ 请作者喝杯奶茶
-
-如果这个项目对你有帮助，欢迎点个 Star，也可以请我喝一杯奶茶~
-
-<p align="center">
-  <img src="docs/alipay_qr.jpeg" width="220" alt="支付宝收款码">
-</p>
-
-> 赞赏纯属自愿，你的 Star 就是对项目最大的支持 ⭐
